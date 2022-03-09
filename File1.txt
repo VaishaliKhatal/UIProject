@@ -16,4 +16,6 @@ change for CR1 rebase with conflict.
 
 Change for WI6 for Stash - inprogree or half done work.. 
 
+Change for WI7 on remote master by team amte to test pull operation.
+
 
