@@ -1,15 +1,17 @@
 Hello World!!
 
-
 Change multiple files added to staging area .
 
 Change for Diff.
 
 Change for bug1.
 
-Change for WI4 by team mate for 3-way merge with conflict
+Change for WI4 by team mate for 3-way merge with conflict.
 
 Change for bug2: 3-way merging with conflict.
 
 Change for WI5 by team mate to chcek rebase with conflict.
+
+change for CR1 rebase with conflict.
+
 
